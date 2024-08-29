@@ -1,0 +1,6 @@
+.pkn-cards{
+	display: flex;
+	margin: 20px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
